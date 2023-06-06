@@ -7,7 +7,7 @@ export default function ProjectSection() {
   return (
     <>
       <section className="flex flex-col px-28 py-12">
-        <Description>Our Portofolio's</Description>
+        <Description>{`Our Portofolio's`}</Description>
         <HeadText>Recent Projects</HeadText>
         <div className="flex flex-wrap py-14 justify-center">
           <ProjectCard

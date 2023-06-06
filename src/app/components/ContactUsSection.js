@@ -10,8 +10,8 @@ export default function ContactUsSection() {
           Have a project idea and want to make it come true?
         </h1>
         <Definition>
-          Please contact us and we will discuss about your project, don't forget
-          we are always here for you
+          {`Please contact us and we will discuss about your project, don't forget
+          we are always here for you`}
         </Definition>
         <Button>Contact Us</Button>
       </div>
